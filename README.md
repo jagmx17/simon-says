@@ -1,4 +1,4 @@
-[bom.md](https://github.com/user-attachments/files/28797247/bom.md)# simon-says
+# Simon-Says
 A simon says game built on a PCB. This project has helped me begin working on my foundations in PCB design.
 
 ## 3D Model
