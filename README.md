@@ -1,5 +1,5 @@
 # Simon-Says
-A simon says game built on a PCB. This project has helped me begin working on my foundations in PCB design.
+A simon says game built on a PCB. It uses four keyboard switches and four LEDs to play. This project has helped me begin working on my foundations in PCB design.
 
 ## 3D Model
 <img width="1068" height="602" alt="macropad" src="https://github.com/user-attachments/assets/3136b90f-e4a0-4dd1-b963-96f43ec345ad" />
