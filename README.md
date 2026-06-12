@@ -2,13 +2,15 @@
 A simon says game built on a PCB. It uses four keyboard switches and four LEDs to play. This project has helped me begin working on my foundations in PCB design.
 
 ## 3D Model
-<img width="1068" height="602" alt="macropad" src="https://github.com/user-attachments/assets/3136b90f-e4a0-4dd1-b963-96f43ec345ad" />
+<img width="681" height="596" alt="image" src="https://github.com/user-attachments/assets/18ebc285-d322-4813-a1af-4119186e22fb" />
+
 
 ## Schematic
 <img width="709" height="583" alt="image" src="https://github.com/user-attachments/assets/be7bd2f0-fec6-49ea-a271-2770f5579625" />
 
 ## PCB Design
-<img width="581" height="530" alt="image" src="https://github.com/user-attachments/assets/222d82b2-6cbe-4532-bced-6ec153d9010e" />
+<img width="693" height="550" alt="image" src="https://github.com/user-attachments/assets/3ef9135e-e2dc-4b93-b867-ca0461b26fd8" />
+
 
 ## Bill of Materials
 |Quantity|Item                    |Cost (USD)|Link                                                                                                     |
