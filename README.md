@@ -9,7 +9,7 @@ A simon says game built on a PCB. It uses four keyboard switches and four LEDs t
 <img width="709" height="583" alt="image" src="https://github.com/user-attachments/assets/be7bd2f0-fec6-49ea-a271-2770f5579625" />
 
 ## PCB Design
-<img width="693" height="550" alt="image" src="https://github.com/user-attachments/assets/3ef9135e-e2dc-4b93-b867-ca0461b26fd8" />
+<img width="623" height="547" alt="image" src="https://github.com/user-attachments/assets/684577be-60db-4de8-bfc0-fd5989afbe13" />
 
 
 ## Bill of Materials
